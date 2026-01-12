@@ -26,6 +26,7 @@ modules:
     repos:
       copr:
         - atim/starship
+        - matinlotfali/KDE-Rounded-Corners
     install:
       packages:
         - starship
@@ -41,6 +42,7 @@ modules:
         - plasma-workspace
         - dolphin
         - ptyxis
+        - kwin-effect-roundcorners
         - https://downloads.vivaldi.com/stable/vivaldi-stable-7.7.3851.67-1.x86_64.rpm
 
   - type: dnf
