@@ -41,6 +41,7 @@ modules:
         - plasma-workspace
         - dolphin
         - ptyxis
+        - https://downloads.vivaldi.com/stable/vivaldi-stable-7.7.3851.67-1.x86_64.rpm
 
   - type: dnf
     remove:
