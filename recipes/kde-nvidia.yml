@@ -55,6 +55,7 @@ modules:
         - firefox-langpacks
         - plasma-welcome
         - fedora-workstation-backgrounds
+        - vim-common
 
 ## Brew Module ##
   - type: brew
