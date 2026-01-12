@@ -80,6 +80,12 @@ modules:
         - JetBrainsMono
         - CascadiaCode
 
+## Scripts Module ##
+  - type: script
+    scripts:
+      - install-vscode.sh
+
+
 ## Image Build Modules ##
   - type: os-release
     properties:
